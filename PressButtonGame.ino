@@ -51,7 +51,7 @@
         lcd_goto_xy(0,0); 
         print("You lose"); 
       } 
-     
+      
    } 
  } 
  } 
